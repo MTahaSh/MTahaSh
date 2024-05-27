@@ -2,7 +2,7 @@
 <p align="center">I'm Muhammad Taha Rizwan, your code craftsman and digital problem-solver! 🚀</p>
 
 # 💫 About Me:
-🚀 Front-End Enthusiast: Skilled in HTML, CSS, JavaScript, React, Nextjs and more.<br>🛠️ Back-End Builder: Experienced with Node.js, Express, Django, and Ruby on Rails.<br>📊 Database Guru: Proficient in MongoDB, MySQL, and PostgreSQL.<br>☁️ DevOps Ready: Knowledgeable in Docker, Kubernetes, and AWS.<br>🌟 Open Source Contributor: Actively contributing to various open source projects.
+🚀 Front-End Enthusiast: Skilled in HTML, CSS, JavaScript, React, Nextjs and more.<br>🛠️ Back-End Builder: Experienced with Node.js, Express, Nextjs.<br>📊 Database Guru: Proficient in MongoDB, MySQL, and PostgreSQL.<br>☁️ DevOps Ready: Knowledgeable in Docker, Kubernetes, and AWS.<br>🌟 Open Source Contributor: Actively contributing to various open source projects.
 
 
 ## 🌐 Socials:
